@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Keshav Rawat.
 - 👀 I’m interested in NLP and Computer Vision.
-- 🌱 I’m currently working as a Data Scientist at a start-up in Bangalore, India.
+- 🌱 I’m currently working as a Data Scientist @Akaike Technologies in Bangalore, India.
 - 💞️ I’m always looking forward to collaborate on interesting projects.
 - 📫 How to reach me:
      - :bulb: [Medium Articles](https://keshavrawat.medium.com/)
